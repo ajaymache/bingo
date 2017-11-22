@@ -13,7 +13,7 @@ Here we are going to define bingo in a bit different way. We will play bingo as 
 
 ### Example
 Now that you have understood the rules of the game let's look at an example :bulb:
-<p align="center"><img src ="images/custom_bingo.png" /></p>
+<p align="center"><img src ="images/custom_bingo.png" width = "400"/></p>
 
 ### Simulating the game
 - You will find two folders in the bingo repository namely [images](images) and [notebooks](notebooks). The images folder has images which are intermediately used in the explanation in one of the ipython notebooks. The notebooks folder contains two ipython notebooks namely [bingo.ipynb](notebooks/bingo.ipynb), [play_bingo.ipynb](notebooks/play_bingo.ipynb) and a [bingo.py](notebooks/bingo.py) python script.
