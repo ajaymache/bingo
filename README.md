@@ -10,6 +10,7 @@ Here we are going to define bingo in a bit different way. We will play bingo as 
 - Each player whose board has bingo gets a share of the win (if n players get bingo, then each gets 1/n wins).
 - We will simulate 10,000 games (you can select some other number of your choice) using all the bingo boards submitted. The goal is to get the **most wins out of all contestants**.
 
+### Now that you have understood the rules of the game let's look at an example :bulb:
 ### Simulating the game
 - You will find two folders in the bingo repository namely [images](images) and [notebooks](notebooks). The images folder has images which are intermediately used in the explanation in one of the ipython notebooks. The notebooks folder contains two ipython notebooks namely [bingo.ipynb](notebooks/bingo.ipynb), [play_bingo.ipynb](notebooks/play_bingo.ipynb) and a [bingo.py](notebooks/bingo.py) python script.
 - You shall notice that we are using the [bingo.py](notebooks/bingo.py) file as module in [play_bingo.ipynb](notebooks/play_bingo.ipynb). The [bingo.py](notebooks/bingo.py) is a simple python script as opposed to the [bingo.ipynb](notebooks/bingo.ipynb) which is a jupyter notebook. We converted the file to simple python script so that we could use it as a module in the [play_bingo.ipynb](notebooks/play_bingo.ipynb) file.
