@@ -1,3 +1,4 @@
+					![bingo](images/traditional-bingo.png)
 ### What is traditional Bingo?
 In the United States, Bingo is a game of chance in which each player matches numbers pre-printed in different arrangements on 5×5 cards with the numbers the game host draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card, which prompts the game host (or an associate assisting the host) to examine the card for verification of the win. Players compete against one another to be the first to have a winning arrangement for the prize or jackpot. After a winner is declared, the players clear their number cards of the tiles and the game host begins a new round of play. (Source - [Wikipedia](https://en.wikipedia.org/wiki/Bingo_(U.S.)))
 ### Lets define custom Bingo :smiley:
