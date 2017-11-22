@@ -9,7 +9,11 @@ Here we are going to define bingo in a bit different way. We will play bingo as 
 - We will simulate 15,000 games (you can select some other number of your choice) using all the bingo boards submitted. The goal is to get the most wins out of all contestants.
 
 ### Simulating the game
-You find two folders in the bingo repository namely images and notebooks.  
+- You will find two folders in the bingo repository namely images and notebooks. The images folder has images which are intermediately used in the explanation in one of the ipython notebooks. The notebooks folder contains two ipython notebooks namely bingo.ipynb, play_bingo.ipynb and a bingo.py python script.
+- You shall notice that we are using the bingo.py file as module in play_bingo.ipynb. The bingo.py is a simple python script as opposed to the bingo.ipynb which is a jupyter notebook. We converted the file to simple python script so that we could use it as a module in the play_bingo.ipynb file.
+- bingo.ipynb conatins all the neccessary helper functions needed to simulate the game. I highly encourage you to look at the source code to have an better understanding of how the game is coded.
+- play_bingo.ipynb is the file which can directly simulate the game without knowing anything about the helper functions in the bingo.ipynb file. Please follow the instruction and read the description in the begining of the play_bingo.ipynb file to follow along.
+
     													
 													
 																								
