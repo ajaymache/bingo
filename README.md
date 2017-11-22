@@ -13,7 +13,7 @@ Here we are going to define bingo in a bit different way. We will play bingo as 
 
 ### Example
 Now that you have understood the rules of the game let's look at an example :bulb:
-<p align="center"><img src ="images/custom_bingo.png" width = "400"/></p>
+<p align="center"><img src ="images/custom_bingo.jpg" width = "400"/></p>
 
 - Consider rolling the two dices 5 times and outcomes after adding both of them are 5,10,4,5,8 respectively.
 - Note that the 5 times are same as 5 turns and each turn is the sum of the numbers appearing on each dice.
