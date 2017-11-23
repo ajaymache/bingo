@@ -32,10 +32,10 @@ Now that you have understood the rules of the game let's look at an example :bul
 - [play_bingo.ipynb](notebooks/play_bingo.ipynb) is the file which can directly simulate the game without knowing anything about the helper functions in the [bingo.ipynb](notebooks/bingo.ipynb) file. Please follow the instruction and read the description in the begining of the [play_bingo.ipynb](notebooks/play_bingo.ipynb) file to follow along.
 
 ### Notes
-- Please feel free to mention your matrix and if it outperforms the one already mentioned your name and matrix will be put on the learderboard :trophy:
+- Please feel free to mention your matrix and if it outperforms the one already mentioned, your name and matrix will be put on the learderboard :trophy:
 - Your submissions could be help us to benchmark the best matrix.
 
-#### Thanks for taking time to stop by and please feel to star, fork the repository or report any bug :beetle: in the code in the issues section of the repository. :smiley:
+#### Thanks for taking time to stop by and please feel to star :star:, fork :fork: the repository or report any bug :beetle: in the code in the issues section of the repository. :smiley:
 
 													
 																								
