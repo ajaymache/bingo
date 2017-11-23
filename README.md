@@ -15,9 +15,11 @@ Here we are going to define bingo in a bit different way. We will play bingo as 
 Now that you have understood the rules of the game let's look at an example :bulb:
 <p align="center"><img src ="images/custom_bingo.jpg" width = "400"/></p>
 
-- Consider rolling the two dices 5 times and outcomes after adding both of them are 5,10,4,5,8 respectively.
+- Consider rolling the 2 dices 5 times and outcomes after adding both of them are 5,10,4,5 and 8 respectively.
 - Note that the 5 times are same as 5 turns and each turn is the sum of the numbers appearing on each dice.
-- At the first turn the sum of the dices is 5 so the algorithm will select a 5 or a multiple of 5 which in this case is 5,10,20. Lets say that the algorithm choose to select the left-uppermost 5 in the image shown in green color.
+- At the first turn the sum of the dices is 5 so the algorithm will select a 5 or a multiple of 5 which in this case is 5,10 and 20. Lets say that the algorithm choose to select the lower-rightmost 5 in the image shown in green color.
+- We take the next turn and the sum of the dices in 10. The possible choices for the algorithm here are 10 and 20, let's say the algorithm select's 10 as shown in green color.
+- For the next turn we have 4. The possible choices are 4, 8 and 12, let's say the algorithm select's 
 
 ### Simulating the game
 - You will find two folders in the bingo repository namely [images](images) and [notebooks](notebooks). The images folder has images which are intermediately used in the explanation in one of the ipython notebooks. The notebooks folder contains two ipython notebooks namely [bingo.ipynb](notebooks/bingo.ipynb), [play_bingo.ipynb](notebooks/play_bingo.ipynb) and a [bingo.py](notebooks/bingo.py) python script.
