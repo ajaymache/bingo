@@ -20,7 +20,8 @@ Now that you have understood the rules of the game let's look at an example :bul
 - At the first turn the sum of the dices is 5 so the algorithm will select a 5 or a multiple of 5 which in this case is 5,10 and 20. Lets say that the algorithm choose to select the lower-rightmost 5 in the image shown in green color.
 - We take the next turn and the sum of the dices in 10. The possible choices for the algorithm here are 10 and 20, let's say the algorithm select's 10 as shown in green color.
 - For the third turn we have 4. The possible choices are 4, 8 and 12, let's say the algorithm select's 8 located at the center of the matrix.
-- For the fourth turn we have 5 again. Now the multiples that are avialable to be marked are 5 located at the left-uppermost corner and 20 (:warning: Not that 5 located at lower-rightmost position and 10 is no longer available to be marked). This time the algorithm chooses the reamaining number 5 located at left-uppermost corner.
+- For the fourth turn we have 5 again. Now the multiples that are avialable to be marked are 5 located at the left-uppermost corner and 20.
+> :warning: Not that 5 located at lower-rightmost position and 10 is no longer available to be marked This time the algorithm chooses the reamaining number 5 located at left-uppermost corner.
 - For the last turn we have 8. The only multiple of 8 in the matrix shown is 8 and there is only one 8 available which the algorithm can select one located at the middle of the last column.
 - All the elements selected (hypothetically) by the algorithm are shown in green circles. The blue row and the red column show the possible ways it would have been a bingo had the algorithm selected appropriate numbers but as mentioned in the rules in the intial section the algorithm can choose random number if there are more than one multiples unmarked (and this makes the problem or the game a great challenge of probability and statistics).
 
