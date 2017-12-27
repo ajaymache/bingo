@@ -33,7 +33,7 @@ Now that you have understood the rules of the game let's look at an example :bul
 
 ### Notes
 - Please feel free to mention your matrix and if it outperforms the one already mentioned, your name and matrix will be put on the learderboard :trophy:
-- Your submissions could be help us to benchmark the best matrix.
+- Your submissions could help to benchmark the best matrix.
 
 #### Thanks for taking time :alarm_clock: to stop by and please feel free to star :star:, fork :wrench: the repository or report any bug :beetle: in the code, in the issues section of the repository. :smiley:
 
